@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">The Brightest Star</title>
     <subtitle type="html">I would raher fail with you than win with others.</subtitle>
-    <updated>2021-05-22T07:19:27&#43;08:00</updated>
+    <updated>2021-05-22T07:25:24&#43;08:00</updated>
     <id>https://blog.yukino.xyz/</id>
     <link rel="alternate" type="text/html" href="https://blog.yukino.xyz/" />
     <link rel="self" type="application/atom&#43;xml" href="https://blog.yukino.xyz/atom.xml" />
@@ -17,10 +17,10 @@
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.83.1">Hugo</generator>
         <entry>
-            <title type="text">Year one</title>
+            <title type="text">Happy Christmas Eve</title>
             <link rel="alternate" type="text/html" href="https://blog.yukino.xyz/acg/fanfic/happy-christmas-eve/" />
             <id>https://blog.yukino.xyz/acg/fanfic/happy-christmas-eve/</id>
-            <updated>2021-05-22T07:17:41&#43;08:00</updated>
+            <updated>2021-05-22T07:25:11&#43;08:00</updated>
             <published>2021-05-17T23:33:13&#43;08:00</published>
             <author>
                     <name>cysr214</name>
